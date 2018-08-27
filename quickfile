@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Family HomePage</title>
+	<link rel="stylesheet" type="text/css" href="homepage.css">
+</head>
+
+<body>
+	<header class="banner">
+		<h1>Family Home Page</h1>	
+		<p>"Family of stars"</p>
+	</header>
+	<nav>
+		<u1>
+			<li><a href="">Home</a></li>
+			<li><a href="">About</a></li>
+		</u1>
+	</nav>
+	<main>
+		<section>
+			<header>
+				<h2>Search Sites</h2>
+			</header>
+			<li><a href="https://www.google.com" target="_blank">GOOGLE</a></li>
+			<li><a href="https://www.bing.com" target="_blank">BING</a></li>
+			<li><a href="https://www.yahoo.com" target="_blank">YAHOO</a></li>
+		</section>
+		<section>
+			<header>
+				<h2>Entertainment Sites</h2>
+			</header>
+			<li><a href="https://www.netflix.com" target="_blank">Netflix</a></li>
+			<li><a href="https://www.youtube.com" target="_blank">YouTube</a></li>
+		</section>
+		<section>
+			<header>
+				<h2>Social Sites</h2>
+			</header>
+			<li><a href="https://www.facebook.com" target="_blank">Facebook</a></li>
+			<li><a href="https://www.linkedin.com" target="_blank">LinkedIN</a></li>
+			<li><a href="https://www.twitter.com" target="_blank">Twitter</a></li>
+		</section>
+		<section>
+			<header>
+				<h2>Email Sites</h2>
+			</header>
+			<li><a href="https://www.gmail.com" target="_blank">GMAIL</a></li>
+			<li><a href="https://mail.yahoo.com" target="_blank">Yahoo Mail</a></li>
+			<li><a href="https://www.hotmail.com" target="_blank">HotMail</a></li>
+		</section>
+		<section>
+			<header>
+				<h2>Real-Estate Sites</h2>
+			</header>
+			<li><a href="https://www.realtor.com" target="_blank">Realtor</a></li>
+			<li><a href="https://www.zillow.com" target="_blank">Zillow</a></li>
+			<li><a href="https://www.homepath.com" target="_blank">HomePath</a></li>
+			<li><a href="https://www.auction.com" target="_blank">Auction</a></li>
+		</section>
+		<section>
+			<header>
+				<h2>Shopping Sites</h2>
+			</header>
+			<li><a href="https://www.amazon.com" target="_blank">Amazon</a></li>
+			<li><a href="https://www.walmart.com" target="_blank">Walmart</a></li>
+			<li><a href="https://www.macys.com" target="_blank">Macy's</a></li>
+		</section>
+		<section>
+			<header>
+				<h2>Banking Sites</h2>
+			</header>
+			<li><a href="https://www.citibank.com" target="_blank">Citibank</a></li>
+			<li><a href="https://www.chase.com" target="_blank">Chase</a></li>
+			<li><a href="https://www.americanexpress.com" target="_blank">AMEX</a></li>
+		</section>
+	</main>
+	<aside>
+		<img class="photo" src="../../Pictures/WebPic1.JPG" height="170" width="240">
+		<img class="photo" src="../../Pictures/WebPic2.JPG" height="170" width="240">
+	</aside>
+	<footer>
+		<p>Footer Note</p>
+	</footer>
+</body>
+
+</html>
