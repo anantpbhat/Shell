@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Rotates logfiles specified on the command line arg.
+#
 [ $# -ne "1" ] && {
 	echo "Usage: $0 <logfilename>";
 	exit 1;
